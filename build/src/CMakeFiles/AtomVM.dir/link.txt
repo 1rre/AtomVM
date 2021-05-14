@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -pedantic -Wextra -ggdb   -lrt -rdynamic CMakeFiles/AtomVM.dir/main.c.o  -o AtomVM  libAtomVM/liblibAtomVM.a platforms/generic_unix/liblibAtomVMLinux-x86_64.a libAtomVM/liblibAtomVM.a platforms/generic_unix/liblibAtomVMLinux-x86_64.a -lz -lm -ldl  -lrt 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -pedantic -Wextra -ggdb   -lrt -rdynamic CMakeFiles/test-erlang.dir/test.c.o  -o test-erlang  ../src/libAtomVM/liblibAtomVM.a ../src/platforms/generic_unix/liblibAtomVMLinux-x86_64.a ../src/libAtomVM/liblibAtomVM.a ../src/platforms/generic_unix/liblibAtomVMLinux-x86_64.a -lz -lm -ldl  -lrt 

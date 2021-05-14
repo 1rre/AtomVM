@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/libAtomVM/atom.h
+stdint.h
+-
+stdlib.h
+-
+
+../src/libAtomVM/atomshashtable.h
+atom.h
+../src/libAtomVM/atom.h
+
+../src/libAtomVM/utils.h
+stdlib.h
+-
+
+../src/libAtomVM/valueshashtable.h
+
+/mnt/c/Users/tjmoo/AtomVM/tests/test-structs.c
+assert.h
+-
+stdlib.h
+-
+atomshashtable.h
+/mnt/c/Users/tjmoo/AtomVM/tests/atomshashtable.h
+valueshashtable.h
+/mnt/c/Users/tjmoo/AtomVM/tests/valueshashtable.h
+utils.h
+/mnt/c/Users/tjmoo/AtomVM/tests/utils.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -pedantic -Wextra -ggdb   -lrt -rdynamic CMakeFiles/test-structs.dir/test-structs.c.o  -o test-structs  ../src/libAtomVM/liblibAtomVM.a ../src/platforms/generic_unix/liblibAtomVMLinux-x86_64.a ../src/libAtomVM/liblibAtomVM.a ../src/platforms/generic_unix/liblibAtomVMLinux-x86_64.a -lz -lm -ldl  -lrt 

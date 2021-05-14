@@ -1,0 +1,9 @@
+/mnt/c/Users/tjmoo/AtomVM/src/platforms/esp32/build/libatomvm/CMakeFiles/install/strip.dir
+/mnt/c/Users/tjmoo/AtomVM/src/platforms/esp32/build/libatomvm/CMakeFiles/install.dir
+/mnt/c/Users/tjmoo/AtomVM/src/platforms/esp32/build/libatomvm/CMakeFiles/list_install_components.dir
+/mnt/c/Users/tjmoo/AtomVM/src/platforms/esp32/build/libatomvm/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/tjmoo/AtomVM/src/platforms/esp32/build/libatomvm/CMakeFiles/edit_cache.dir
+/mnt/c/Users/tjmoo/AtomVM/src/platforms/esp32/build/libatomvm/CMakeFiles/install/local.dir
+/mnt/c/Users/tjmoo/AtomVM/src/platforms/esp32/build/libatomvm/CMakeFiles/libAtomVM.dir
+/mnt/c/Users/tjmoo/AtomVM/src/platforms/esp32/build/libatomvm/CMakeFiles/generated-nifs-hash.dir
+/mnt/c/Users/tjmoo/AtomVM/src/platforms/esp32/build/libatomvm/CMakeFiles/generated.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -pedantic -Wextra -ggdb  -rdynamic CMakeFiles/PackBEAM.dir/packbeam.c.o  -o PackBEAM  -lz ../../src/libAtomVM/liblibAtomVM.a ../../src/platforms/generic_unix/liblibAtomVMLinux-x86_64.a ../../src/libAtomVM/liblibAtomVM.a ../../src/platforms/generic_unix/liblibAtomVMLinux-x86_64.a -lz -lm -ldl 

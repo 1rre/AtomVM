@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibAtomVMLinux-x86_64.a  CMakeFiles/libAtomVMLinux-x86_64.dir/gpio_driver.c.o CMakeFiles/libAtomVMLinux-x86_64.dir/sys.c.o CMakeFiles/libAtomVMLinux-x86_64.dir/mapped_file.c.o CMakeFiles/libAtomVMLinux-x86_64.dir/network_driver.c.o CMakeFiles/libAtomVMLinux-x86_64.dir/platform_defaultatoms.c.o CMakeFiles/libAtomVMLinux-x86_64.dir/platform_nifs.c.o CMakeFiles/libAtomVMLinux-x86_64.dir/socket_driver.c.o
+/usr/bin/ranlib liblibAtomVMLinux-x86_64.a
